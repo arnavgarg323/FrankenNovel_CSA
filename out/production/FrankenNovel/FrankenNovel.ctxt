@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FrankenNovel
+comment0.text=\n\ Module\ 9\ Project\:\ The\ Gutenberg\ FrankenNovel\n\n\ Name\:\ Arnav\ Garg\n\ \n\ AP\ Computer\ Science,\ Virtual\ Virginia\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=b1\ b2
+comment2.target=void\ writeFrankenNovel(Book,\ Book)
+comment2.text=\ Writes\ to\ an\ output\ file\ shorterBook's\ even-indexed\ words\ and\ longerBook's\ odd-indexed\ words.\n\ After\ end\ of\ shorterBook's\ list,\ all\ remaining\ words\ from\ longerBook's\ list\ will\ print.\n\ Uses\ a\ try-catch\ block.\ \ \ \n\ \ \ \ \ \ \ @param\ b1\ --\ the\ first\ Book\ object\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ b2\ --\ the\ second\ Book\ object\n
+numComments=3
